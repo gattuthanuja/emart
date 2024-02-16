@@ -1,0 +1,35 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.navbar{
+    display:flex;
+    align-items: center;
+    background:#000000db;
+    padding: 0px 150px;
+    justify-content: space-between;
+    height: 70px;
+}
+.navbar h2{
+    font-size: 50px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color:white;
+    font-weight: bolder;
+}
+.navbar nav ul{
+    display:flex;
+}
+.navbar nav ul li{
+    list-style-type: none;
+}
+.navbar nav ul li a{
+    text-decoration: none;
+    color:black;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px 15px;
+    margin:0 5px;
+}

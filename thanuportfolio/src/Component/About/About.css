@@ -1,0 +1,48 @@
+.con{
+    display: flex;
+    gap:90px;
+    align-items: center;
+    padding-top: 40px;
+    padding-left: 60px;
+}
+.con h1{
+    font-family: sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: white;
+}
+.con p{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+    padding-right: 100px;
+}
+.pre img{
+    width:350px;
+    height:400px;
+    padding-left: 80px;
+}
+.pre{
+    display: flex;
+    gap:100px;
+    padding-top: 60px;
+}
+.pre .pre1{
+    display:flex;
+    gap:70px;
+    color:white;
+}
+.pre .pre1 h3{
+    font-size:50px ;
+    color: #f20d0d;
+    padding-left: 50px;
+}
+.pre .pre1 p1{
+    color:white;
+    font-size:30px;
+    gap:10px;
+    font-family: sans-serif;
+    padding-top: 60px;
+}
+

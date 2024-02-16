@@ -1,0 +1,51 @@
+body{
+    background: #000;
+}
+.para{
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    padding: 0 30px;
+}
+.para *{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.para h1{
+    font-size: 70px;
+    padding-top: 30px;
+}
+.para p{
+    font-size: 30px;
+    padding-right: 100px;
+    padding-top: 60px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0px;
+}
+.container img{
+    padding-top: 30px;
+    width: 310px;
+    height: 250px;
+    margin:0.2%;
+}
+
+.hello{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hello a{
+    margin-top: 50px;
+
+    padding: 10px 20px;
+    background: black;
+    color: white;
+    border: solid white ;
+    text-decoration: none;
+}

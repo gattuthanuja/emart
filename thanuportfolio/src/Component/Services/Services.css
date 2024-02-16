@@ -1,0 +1,8 @@
+.bow{
+    display: flex;
+    gap: 30px;
+}
+.bow img{
+    width:300px;
+    height:350px;
+}
